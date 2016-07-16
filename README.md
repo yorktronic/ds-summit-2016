@@ -2,8 +2,8 @@
 
 This repo contains notes and tutorials from the <a href="http://conf.turi.com/2016/us/" target="_blank">2016 Data Science Summit</a> 
 in San Franciso, CA, which was organized by Turi (formerly 
-known as Dato, creators of GraphLab Create). Below are my notes from the conference
-in their entirety.
+known as Dato, creators of GraphLab Create). A complete list of sponsors can be found 
+<a href="http://conf.turi.com/2016/us/sponsors/" target="_blank">here.</a> Below are my notes from the conference.
 
 ---
 
