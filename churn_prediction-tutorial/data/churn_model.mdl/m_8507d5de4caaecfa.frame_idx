@@ -1,0 +1,15 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=4
+nrows=10
+[column_names]
+0000=Iteration
+0001=Elapsed Time
+0002=Training-accuracy
+0003=Training-log_loss
+[column_files]
+0000=m_8507d5de4caaecfa.sidx:0
+0001=m_8507d5de4caaecfa.sidx:1
+0002=m_8507d5de4caaecfa.sidx:2
+0003=m_8507d5de4caaecfa.sidx:3
