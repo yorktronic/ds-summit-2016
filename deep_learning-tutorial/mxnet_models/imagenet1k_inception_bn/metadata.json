@@ -1,0 +1,1 @@
+{"model_type": "IMAGE_CLASSIFIER", "scale": 1.0, "input_shape": [224, 224, 3], "mean_rgb": [0.0, 0.0, 0.0], "mean_nd": "mean_224.nd", "version": "1.0", "name": "imagenet1k_inception_bn"}

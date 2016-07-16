@@ -1,0 +1,1 @@
+{"name": "coco_vgg_16", "mean_rgb": [123.68, 116.779, 103.939], "input_shape": [1, 3, 600, 800], "mean_nd": null, "version": 1.0, "model_type": "IMAGE_DETECTOR"}
