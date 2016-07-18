@@ -220,6 +220,7 @@ than the traditional math statistics course
 
 # Tutorials #
 Turi hosted several tutorial sessions using GraphLab Create in some interesting applications, including:
+
 * Customer Churn Prediction
 * Lead Scoring
 * Building a Recommender System
@@ -243,7 +244,7 @@ for this presentation are in complete.*
 # The Five Tribes of Machine Learning, and What you can Take from Each #
 **Professor Pedro Domingo, University of Washington**
 
-*This was a table, and I'll turn it in to a table tomorrow*
+*This was a table, and I'll turn it in to a table later, maybe.*
 
 * Symbolists - Logic, Philosophy, Inverse deduction
 * Connectionists - Neuroscience - Backpropgation
