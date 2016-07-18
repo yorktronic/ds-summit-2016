@@ -1,4 +1,4 @@
-2016 San Francisco Data Sciece Summit Notes + Tutorials
+# 2016 San Francisco Data Sciece Summit Notes + Tutorials #
 
 This repo contains notes and tutorials from the 2016 Data Science Summit in San Franciso,
 CA, which was organized by Turi (formerly known as Dato, creators of GraphLab Create).
