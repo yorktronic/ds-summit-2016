@@ -1,9 +1,9 @@
----
-layout: post
-title: Live-blogging the 2016 Data Science Summit in SF
----
-I'll be live-blogging Turi's 2016 Data Science Summit in San Francisco, CA. Hopefully my notes are relatively easy to
-understand!
+2016 San Francisco Data Sciece Summit Notes + Tutorials
+
+This repo contains notes and tutorials from the 2016 Data Science Summit in San Franciso,
+CA, which was organized by Turi (formerly known as Dato, creators of GraphLab Create).
+A complete list of sponsors can be found <a href="http://conf.turi.com/2016/us/sponsors/" target="_blank">
+here</a>. Below are my notes from the conference.
 
 **July 12-13, 2016 @ The Fairmont Hotel**
 
