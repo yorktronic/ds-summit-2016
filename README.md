@@ -1,11 +1,9 @@
-# 2016 San Francisco Data Sciece Summit Notes + Tutorials #
-
-This repo contains notes and tutorials from the <a href="http://conf.turi.com/2016/us/" target="_blank">2016 Data Science Summit</a> 
-in San Franciso, CA, which was organized by Turi (formerly 
-known as Dato, creators of GraphLab Create). A complete list of sponsors can be found 
-<a href="http://conf.turi.com/2016/us/sponsors/" target="_blank">here.</a> Below are my notes from the conference.
-
 ---
+layout: post
+title: Live-blogging the 2016 Data Science Summit in SF
+---
+I'll be live-blogging Turi's 2016 Data Science Summit in San Francisco, CA. Hopefully my notes are relatively easy to
+understand!
 
 **July 12-13, 2016 @ The Fairmont Hotel**
 
@@ -220,8 +218,15 @@ than the traditional math statistics course
 * Ashes CAMHD (ocean floor HD cameras that pass photos to data scientists for analytics)
     * Separating foreground and background using matrix factorization
 
-# Churn Prediction Tutorial #
-***Note: I tried to put this tutorial on GitHub but had several issues with large files and right now it's not working. It'll be up sooner rather than later***
+# Tutorials #
+Turi hosted several tutorial sessions using GraphLab Create in some interesting applications, including:
+* Customer Churn Prediction
+* Lead Scoring
+* Building a Recommender System
+* Deep Learning
+
+All of these tutorials can be found in <a href="https://github.com/yorktronic/ds-summit-2016#" target="_blank">this repo</a>
+on my GitHub.
 
 # Machine Learning in Production #
 **Dr. Yucheng Low, Chief Architect @ Turi**
